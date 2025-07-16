@@ -5,9 +5,7 @@ DevSentry is a terminal-based Python tool that scans source code folders to find
 - API keys (AWS, Google, etc.)
 - Email IDs
 - Indian phone numbers
-
----
-
+- 
 ## 🔧 Features
 
 ✅ Scans all files inside a folder  
@@ -15,24 +13,13 @@ DevSentry is a terminal-based Python tool that scans source code folders to find
 ✅ Shows pattern, file name, and line number  
 ✅ Saves the results as JSON report  
 ✅ Works fully in the terminal  
-✅ Built using beginner-friendly Python!
-
----
-
-## 📸 Example Output
-
-
-![Scan Result](output.png)
-
+✅ Built using beginner-friendly Python
 
 📄 File: test_files/sample_code.py
 🔎 Pattern: AWS Key
 📌 Line 3: aws_key = "AKIAIOSFODNN7EXAMPLE"
 
 ✅ Report saved to: reports/scan_report_2025_07_16_103120.json
-
-
----
 
 ## 🛠 Technologies Used
 
@@ -42,13 +29,9 @@ DevSentry is a terminal-based Python tool that scans source code folders to find
 - JSON
 - (Optional in future: Flutter for mobile/web)
 
----
-
 ## 🧠 Why This Project?
 
 Built as a security tool to help developers **check their code for sensitive information** before pushing to GitHub or deploying.
-
----
 
 ## 👩‍💻 Author
 
