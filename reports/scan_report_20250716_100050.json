@@ -1,0 +1,20 @@
+[
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 3,
+        "pattern": "Password",
+        "match": "password = \"mySecret123\""
+    },
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 4,
+        "pattern": "API Key",
+        "match": "api_key = \"sk_test_abc123\""
+    },
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 5,
+        "pattern": "Email",
+        "match": "email = \"test@example.com\""
+    }
+]

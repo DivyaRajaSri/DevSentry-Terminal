@@ -1,0 +1,38 @@
+[
+    {
+        "file": "C:\\Users\\mallu\\OneDrive\\Desktop\\DevSentry-Terminal\\test_files\\sample_code.py",
+        "line_number": 3,
+        "pattern": "Password",
+        "match": "password = \"mySecret123\""
+    },
+    {
+        "file": "C:\\Users\\mallu\\OneDrive\\Desktop\\DevSentry-Terminal\\test_files\\sample_code.py",
+        "line_number": 4,
+        "pattern": "API Key",
+        "match": "api_key = \"sk_test_abc123\""
+    },
+    {
+        "file": "C:\\Users\\mallu\\OneDrive\\Desktop\\DevSentry-Terminal\\test_files\\sample_code.py",
+        "line_number": 5,
+        "pattern": "Email",
+        "match": "email = \"test@example.com\""
+    },
+    {
+        "file": "C:\\Users\\mallu\\OneDrive\\Desktop\\DevSentry-Terminal\\test_files\\sample_code.py",
+        "line_number": 7,
+        "pattern": "JWT Token",
+        "match": "jwt_token = \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTYifQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c\""
+    },
+    {
+        "file": "C:\\Users\\mallu\\OneDrive\\Desktop\\DevSentry-Terminal\\test_files\\sample_code.py",
+        "line_number": 8,
+        "pattern": "DB URL",
+        "match": "db_url = \"jdbc:mysql://localhost:3306/mydb\""
+    },
+    {
+        "file": "C:\\Users\\mallu\\OneDrive\\Desktop\\DevSentry-Terminal\\test_files\\sample_code.py",
+        "line_number": 9,
+        "pattern": "Credit Card Number",
+        "match": "credit_card = \"4111 1111 1111 1111\""
+    }
+]

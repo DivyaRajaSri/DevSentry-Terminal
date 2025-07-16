@@ -1,0 +1,32 @@
+[
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 2,
+        "pattern": "Hardcoded Password",
+        "match": "password = \"admin@123\""
+    },
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 3,
+        "pattern": "AWS Access Key",
+        "match": "aws_key = \"AKIAIOSFODNN7EXAMPLE\""
+    },
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 4,
+        "pattern": "Generic API Key",
+        "match": "api_key = \"AIzaSyDx-1234567890_abcde_fghijk123456\""
+    },
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 6,
+        "pattern": "Email Address",
+        "match": "email = \"divya@example.com\""
+    },
+    {
+        "file": "test_files\\sample_code.py",
+        "line_number": 7,
+        "pattern": "Phone Number (India)",
+        "match": "phone = \"+91-9876543210\""
+    }
+]
