@@ -22,7 +22,7 @@ DevSentry is a terminal-based Python tool that scans source code folders to find
 ## 📸 Example Output
 
 
-
+![Scan Result](output.png)
 
 
 📄 File: test_files/sample_code.py
